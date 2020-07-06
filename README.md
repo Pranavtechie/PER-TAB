@@ -1,5 +1,5 @@
 # PER-TAB
-PER TAB the name derived from the <u>per<u>iodic <u>tab<u>le, as you thought this software is about Periodic Table and its representation of the Elements.
+PER TAB the name derived from the PERiodic TABle, as you thought this software is about Periodic Table and its representation of the Elements.
 
 In this appilication we have a activity as well. 
 Acitivity is very simple- You just have to enter your name and you will find all the elements possible with your name in two Sub-Divisions i.e. 
